@@ -35,5 +35,5 @@ to individual transaction records
 <img width="802" height="474" alt="image" src="https://github.com/user-attachments/assets/3dfb0cc5-9093-4093-a7cc-4987223e69f0" />
 
 ## Tools Used
-Python
-Pandas
+- Python
+- Pandas
